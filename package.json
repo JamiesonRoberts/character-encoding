@@ -9,6 +9,9 @@
 	"files": [
 		"/index.js"
 	],
+    "engines": {
+        "node": ">=10"
+    },
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/JamiesonRoberts/character-encoding.git"
